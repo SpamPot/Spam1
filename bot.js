@@ -11,3 +11,6 @@ channel.send(`سباااامررر`);
 })	
 
 client.login(process.env.BOT_TOKEN);
+client.login(process.env.BOT_TOKEN_2);
+client.login(process.env.BOT_TOKEN_3);
+client.login(process.env.BOT_TOKEN_4);
